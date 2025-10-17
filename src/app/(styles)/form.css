@@ -1,0 +1,5 @@
+@layer components {
+    .input {
+        @apply py-2 px-4 border rounded-xs border-gray-54 placeholder:text-gray-54 font-primary;
+    }
+}

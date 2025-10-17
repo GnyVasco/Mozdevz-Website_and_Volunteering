@@ -1,0 +1,1 @@
+export { SlickTestimonialCarousel } from "./SlickTestimonialCarousel";
